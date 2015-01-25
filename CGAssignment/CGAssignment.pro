@@ -13,8 +13,10 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp\
-        cgmainwindow.cpp
+        cgmainwindow.cpp \
+    temp.cpp
 
-HEADERS  += cgmainwindow.h
+HEADERS  += cgmainwindow.h \
+    temp.h
 
 FORMS    += cgmainwindow.ui
