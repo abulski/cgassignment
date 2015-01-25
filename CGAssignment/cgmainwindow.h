@@ -3,6 +3,7 @@
 
 #include <QMainWindow>
 
+//test
 namespace Ui {
 class CgMainWindow;
 }
